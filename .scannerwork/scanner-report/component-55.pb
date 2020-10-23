@@ -1,1 +1,0 @@
-7 2javaXhr-src/test/java/com/conpany/project/Tester.java
